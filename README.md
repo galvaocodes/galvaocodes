@@ -26,10 +26,9 @@ Estudante de Análise e Desenvolvimento de Sistemas focada em desenvolvimento **
 ### 📊 Minhas Estatísticas
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=galvaocodes&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=galvaocodes&show_icons=true&theme=radical" alt="Estatísticas do GitHub" />
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=galvaocodes&layout=compact&theme=radical" alt="Linguagens Mais Usadas" />
 </div>
-
 ---
 
 ### 📬 Onde me encontrar
