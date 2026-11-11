@@ -7,7 +7,7 @@ Estudante de Análise e Desenvolvimento de Sistemas focada em desenvolvimento **
 ### 🚀 Sobre Mim
 
 - 🎓 Cursando **Análise e Desenvolvimento de Sistemas**
-- ⚙️ Focada em desenvolvimento **Back-end**
+- ⚙️ Focada em desenvolvimento **FullStack**
 - 💻 Conhecimentos em JavaScript, Python, HTML5 e CSS3
 - 📍 Rio de Janeiro, Brasil
 
