@@ -1,6 +1,6 @@
 # Olá, mundo! Eu sou a Mariana 👋
 
-Estudante de Análise e Desenvolvimento de Sistemas focada em desenvolvimento **Back-end**.
+Estudante de Análise e Desenvolvimento de Sistemas focada em desenvolvimento **FullStack**.
 
 ---
 
